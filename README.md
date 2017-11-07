@@ -1,4 +1,4 @@
-# cal
-###test how to use github
-###I do not konw what to do next
-###So I should get information on the Internet
+#　cal
+１．　test how to use github
+２．I do not konw what to do next
+３．　So I should get information on the Internet
